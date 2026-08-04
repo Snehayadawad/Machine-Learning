@@ -49,31 +49,3 @@ This repository is designed to provide a hands-on learning path for Machine Lear
 ├── 05_ml_projects/
 └── README.md
 
-## 🚀 Technologies Used
-
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-* Jupyter Notebook
-
-## 🎯 Learning Goals
-
-* Understand core Machine Learning concepts
-* Build predictive models from scratch
-* Work with real-world datasets
-* Improve model performance through tuning
-* Develop end-to-end Machine Learning projects
-
-## 📈 Future Additions
-
-* Deep Learning
-* Neural Networks
-* Natural Language Processing (NLP)
-* Computer Vision
-* Model Deployment
-
-
-⭐ If you find this repository useful, consider giving it a star.
